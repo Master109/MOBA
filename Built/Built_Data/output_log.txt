@@ -1,0 +1,95 @@
+Initialize engine version: 5.1.1p4 (c439df19cd24)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 780 (ID=0x1004)
+    Vendor:   NVIDIA
+    VRAM:     2962 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.078 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1198 -> priority: 1 
+  Thread -> id: 1b0c -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.761476 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 514.
+Total: 0.355417 ms (FindLiveObjects: 0.022873 ms CreateObjectMapping: 0.018767 ms MarkObjects: 0.304978 ms  DeleteObjects: 0.007331 ms)
+
+Initialize engine version: 5.1.1p4 (c439df19cd24)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 780 (ID=0x1004)
+    Vendor:   NVIDIA
+    VRAM:     2962 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.047 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Unity 5 Projects\UNET Part 21\Built\Built_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3bc4 -> priority: 1 
+  Thread -> id: 2bf0 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.244772 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 514.
+Total: 0.284744 ms (FindLiveObjects: 0.018181 ms CreateObjectMapping: 0.014662 ms MarkObjects: 0.242809 ms  DeleteObjects: 0.007624 ms)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:7777}
+UNet Client Disconnect Error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.121675 ms
+Multiple NetworkManagers detected in the scene. Only one NetworkManager can exist at a time. The duplicate NetworkManager will not be used.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 470.
+Total: 0.443978 ms (FindLiveObjects: 0.022286 ms CreateObjectMapping: 0.021993 ms MarkObjects: 0.388847 ms  DeleteObjects: 0.009677 ms)
+
